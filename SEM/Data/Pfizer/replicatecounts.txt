@@ -1,0 +1,24 @@
+Buprenorphine	3	18	41
+DAMGO	392	1419	1555
+Endomorphin1	3	36	33
+Fentanyl	4	36	44
+Loperamide	3	34	26
+Meptazinol	21	18	20
+Met-Enkephalin	5	35	33
+Morphine	7	45	91
+Oxycodone	6	37	45
+Compound 1	12	22	17
+Compound 3	4	12	16
+Compound 4	2	9	13
+Compound 5	306	116	302
+Compound 6	30	16	35
+Compound 7	4	21	18
+Compound 8	6	13	13
+Compound 9	10	969	1137
+Compound 10	18	28	38
+Compound 11	5	7	14
+Compound 12	16	45	33
+Compound 13	3	43	42
+Compound 14	13	28	35
+Compound 15	18	61	65
+Compound 16	18	101	112

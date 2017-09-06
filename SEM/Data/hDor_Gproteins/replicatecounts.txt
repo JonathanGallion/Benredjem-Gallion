@@ -1,0 +1,21 @@
+Buprenorphine	5	4	5
+Fentanyl	5	4	5
+Loperamide	5	4	5
+Met-Enk	22	22	25
+Morphine	5	4	5
+Oxycodone	5	4	5
+Cmp 1	5	4	5
+Cmp 3	5	7	5
+Cmp 4	5	7	5
+Cmp 5	3	4	6
+Cmp 6	3	4	4
+Cmp 7	3	4	4
+Cmp 8	3	4	6
+Cmp 9	3	4	4
+Cmp 10	3	4	4
+Cmp 11	4	3	4
+Cmp 12	4	3	6
+Cmp 13	4	3	6
+Cmp 14	3	3	3
+Cmp 15	4	3	6
+Cmp 16	4	3	6

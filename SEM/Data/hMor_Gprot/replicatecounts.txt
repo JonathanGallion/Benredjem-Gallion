@@ -1,0 +1,25 @@
+Buprenorphine	5	4	5	4	6
+DAMGO	5	4	4	4	7
+Endomorphine1	11	4	4	4	7
+Fentanyl	11	4	4	4	7
+Loperamide	5	4	4	4	7
+Meptazinol	5	4	4	4	7
+Met-Enk	29	20	21	21	20
+Morphine	5	4	4	6	7
+Oxycodone	5	4	5	4	7
+Tramadol	10	4	5	4	5
+Cmp 1	5	6	5	4	5
+Cmp 3	10	6	5	4	6
+Cmp 4	5	4	5	4	5
+Cmp 5	6	4	7	6	4
+Cmp 6	6	4	4	4	4
+Cmp 7	6	4	4	4	5
+Cmp 8	6	4	4	4	6
+Cmp 9	6	4	4	4	4
+Cmp 10	6	4	4	4	6
+Cmp 11	7	6	5	4	7
+Cmp 12	7	6	5	4	5
+Cmp 13	7	6	5	5	7
+Cmp 14	7	6	5	4	5
+Cmp 15	7	6	5	4	5
+Cmp 16	12	6	5	4	5
